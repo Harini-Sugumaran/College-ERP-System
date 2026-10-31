@@ -1,0 +1,22 @@
+# Java / Maven
+target/
+*.class
+*.log
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local environment / secrets
+.env
+application-local.properties
+
+# Frontend dependencies (if added later)
+node_modules/
+dist/
+build/
